@@ -69,4 +69,6 @@
 </div>
 <br />
 <p align="center">Lets CODE</p>
-<img align="center" src="./RGB.gif" alt="gif" />
+<div align="center">
+  <img align="center" src="./RGB.gif" alt="gif" />
+</div>
