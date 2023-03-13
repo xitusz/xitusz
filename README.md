@@ -67,7 +67,7 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xitusz&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="github stats" />
 </div>
-<br />
+<hr />
 <p align="center">Lets CODE</p>
 <div align="center">
   <img align="center" src="./RGB.gif" alt="gif" />
