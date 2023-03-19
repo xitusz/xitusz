@@ -57,7 +57,7 @@
     <img src="./stick_invisible.png" />
     <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="chai" width="40" height="40" style="max-width: 100%;" /> </a>
     <img src="./stick_invisible.png" />
-    <a href="https://docs.pytest.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/cef3fb39a794afbf1f3b20fd0d84f4406d5eb65ef4364e8920d6d47f77517e3d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7079746573742f7079746573742d6f726967696e616c2e737667" alt="pytest" width="40" height="40" style="max-width: 100%;" /> </a>
+    <a href="https://docs.pytest.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" width="40" height="40" style="max-width: 100%;" /> </a>
   </div>
   <hr>
   <h3 align="left">Tools</h3>
