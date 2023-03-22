@@ -20,31 +20,21 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" alt="html5" width="40" height="40" style="max-width: 100%;" /> </a>
   </div>
   <hr>
-  <h3 align="left">Frameworks CSS</h3>
-  <div align="left">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="45" height="40" style="max-width: 100%;" /> </a>
-    <img src="./stick_invisible.png" />
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/bdedcbc949feefecc3ff98f7e655ee8151b522e2f32196c648620f5366d909d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d706c61696e2e737667" alt="tailwind" width="40" height="40" style="max-width: 100%;" /> </a>
-  </div>
-  <hr>
-  <h3 align="left">Front-end</h3>
+  <h3 align="left">Frameworks & Libraries</h3>
   <div align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" alt="react" width="40" height="40" style="max-width: 100%;" /> </a>
     <img src="./stick_invisible.png" />
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2b6b50702c658cdfcf440cef1eb88c7e0e5a16ce0eb6ab8bc933da7697c12213/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656475782f72656475782d6f726967696e616c2e737667" alt="redux" width="40" height="40" style="max-width: 100%;" /> </a>
-  </div>
-  <hr>
-  <h3 align="left">Back-end</h3>
-  <div align="left">
-    <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/a2ef2bb116ae565bb254cbb11194dae357eb7582a8babeab337bd3932687d63d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f73657175656c697a652f73657175656c697a652d6f726967696e616c2e737667" alt="sequelize" width="40" height="40" style="max-width: 100%;" /> </a>
-    <img src="./stick_invisible.png" />
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" alt="mysql" width="40" height="40" style="max-width: 100%;" /> </a>
     <img src="./stick_invisible.png" />
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express" width="40" height="40" style="max-width: 100%;" /> </a>
     <img src="./stick_invisible.png" />
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" alt="mongodb" width="40" height="40" style="max-width: 100%;" /> </a>
-    <img src="./stick_invisible.png" />
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" alt="nodejs" width="40" height="40" style="max-width: 100%;" /> </a>
+    <img src="./stick_invisible.png" />
+    </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/cbd55750b53c01dc18830d377c7364b01077e8a675a79d454a3f1ea549efe129/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667" alt="docker" width="40" height="40" style="max-width: 100%;" /> </a>
+    <img src="./stick_invisible.png" />
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="45" height="40" style="max-width: 100%;" /> </a>
+    <img src="./stick_invisible.png" />
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/bdedcbc949feefecc3ff98f7e655ee8151b522e2f32196c648620f5366d909d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d706c61696e2e737667" alt="tailwind" width="40" height="40" style="max-width: 100%;" /> </a>
   </div>
   <hr>
   <h3 align="left">Tests</h3>
@@ -60,21 +50,34 @@
     <a href="https://docs.pytest.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" width="40" height="40" style="max-width: 100%;" /> </a>
   </div>
   <hr>
+  <h3 align="left">Data Base</h3>
+  <div align="left">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" alt="mysql" width="40" height="40" style="max-width: 100%;" /> </a>
+    <img src="./stick_invisible.png" />
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" alt="mongodb" width="40" height="40" style="max-width: 100%;" /> </a>
+  </div>
+  <hr>
+  <h3 align="left">ORM</h3>
+  <div align="left">
+    <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/a2ef2bb116ae565bb254cbb11194dae357eb7582a8babeab337bd3932687d63d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f73657175656c697a652f73657175656c697a652d6f726967696e616c2e737667" alt="sequelize" width="40" height="40" style="max-width: 100%;" /> </a>
+  </div>
+  <hr>
+  <h3 align="left">Cloud</h3>
+  <div align="left">
+    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/d3c6550082b8555095a4d26683324126d3e00fb429a30505bb56911b8cf57369/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6865726f6b752f6865726f6b752d6f726967696e616c2e737667" alt="heroku" width="40" height="40" style="max-width: 100%;" /> </a>
+  </div>
+  <hr>
   <h3 align="left">Tools</h3>
   <div align="left">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" alt="linux" width="40" height="40" style="max-width: 100%;" /> </a>
     <img src="./stick_invisible.png" />
     <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/c3fc2502421ea45b46698a4db62f25d0ef49c765f197b1a8fd00eaed5548b1db/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736c61636b2f736c61636b2d6f726967696e616c2e737667" alt="slack" height="40" width="40" style="max-width: 100%;" /> </a>
     <img src="./stick_invisible.png" />
-    </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/cbd55750b53c01dc18830d377c7364b01077e8a675a79d454a3f1ea549efe129/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667" alt="docker" width="40" height="40" style="max-width: 100%;" /> </a>
-    <img src="./stick_invisible.png" />
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="vscode" width="40" height="40" style="max-width: 100%;" /> </a>
     <img src="./stick_invisible.png" />
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="git" width="40" height="40" style="max-width: 100%;" /> </a>
     <img src="./stick_invisible.png" />
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/4fc2f865dba7be1eaadfb0aef77227e64b05a3e2c64d8381385830e96f0b0311/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f502f706f73746d616e2d6c6f676f2d303038374341304431352d7365656b6c6f676f2e636f6d2e706e67" alt="postman" width="40" height="40" style="max-width: 100%;" /> </a>
-    <img src="./stick_invisible.png" />
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/d3c6550082b8555095a4d26683324126d3e00fb429a30505bb56911b8cf57369/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6865726f6b752f6865726f6b752d6f726967696e616c2e737667" alt="heroku" width="40" height="40" style="max-width: 100%;" /> </a>
     <img src="./stick_invisible.png" />
     <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/49173798507f976bb55ad37f4ca77403429bbb0ec54a146a391e53d694a738bd/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f492f696e736f6d6e69612d6c6f676f2d413335453039454231392d7365656b6c6f676f2e636f6d2e706e67" alt="insomnia" width="40" height="40" style="max-width: 100%;" /> </a>
   </div>
