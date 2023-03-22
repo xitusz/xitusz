@@ -50,7 +50,7 @@
     <a href="https://docs.pytest.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" width="40" height="40" style="max-width: 100%;" /> </a>
   </div>
   <hr>
-  <h3 align="left">Data Base</h3>
+  <h3 align="left">Database</h3>
   <div align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" alt="mysql" width="40" height="40" style="max-width: 100%;" /> </a>
     <img src="./stick_invisible.png" />
