@@ -79,7 +79,7 @@
     <img width="12" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Postman.svg" height="40" alt="postman logo" />
     <img width="12" />
-    <img src="https://insomnia.rest/images/insomnia-logo.svg" height="40" alt="insomnia logo" />
+    <img src="https://camo.githubusercontent.com/cb6a57064d9ff63124dd5f861216e879088f537c790cfa22b357fc7dada595e6/68747470733a2f2f696e736f6d6e69612e726573742f696d616765732f696e736f6d6e69612d6c6f676f2e737667" height="40" alt="insomnia logo" />
   </div>
 </details>
 <hr>
