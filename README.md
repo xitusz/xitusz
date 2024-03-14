@@ -45,6 +45,8 @@
     <img width="12" />
     <img src="https://avatars.githubusercontent.com/u/49996085?s=200&amp;v=4" height="40" alt="rtl logo"  />
     <img width="12" />
+    <img src="https://cdn.simpleicons.org/jasmine/8A4182" height="40" alt="jasmine logo"  />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" alt="mocha logo"  />
     <img width="12" />
     <img src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" height="40" alt="chai logo"  />
