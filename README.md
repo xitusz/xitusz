@@ -2,6 +2,7 @@
 <h3 align="center">Full-Stack Web Developer</h3>
 <br />
 - ⚡ Fun fact: I love programming and games
+<br />
 - 🌱 I’m currently learning: Vue.js
 <hr>
 <details>
