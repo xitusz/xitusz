@@ -3,7 +3,7 @@
 <br />
 - ⚡ Fun fact: I love programming and games
 <br />
-- 🌱 I’m currently learning: Vue.js
+- 🌱 I’m currently learning: Vue.js, Java, Next
 <hr>
 <details>
   <summary>
