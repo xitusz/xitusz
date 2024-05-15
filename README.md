@@ -3,7 +3,7 @@
 <br />
 - ⚡ Fun fact: I love programming and games
 <br />
-- 🌱 I’m currently learning: Next, Nest, React Native, Postgresql, Vue
+- 🌱 I’m currently learning: Next, Nest, React Native, Postgresql
 <hr>
 <details>
   <summary>
